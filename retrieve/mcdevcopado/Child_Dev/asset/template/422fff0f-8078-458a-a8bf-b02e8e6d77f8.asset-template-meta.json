@@ -1,0 +1,33 @@
+{
+    "customerKey": "422fff0f-8078-458a-a8bf-b02e8e6d77f8",
+    "assetType": {
+        "name": "template",
+        "displayName": "Template"
+    },
+    "fileProperties": {
+        "fileName": "Copado-Demo"
+    },
+    "name": "Copado-Demo",
+    "owner": {
+        "email": "schadha@copado.com",
+        "name": "Shweta Chadha"
+    },
+    "createdDate": "2023-04-26T04:10:22.877-06:00",
+    "createdBy": {
+        "email": "schadha@copado.com",
+        "name": "Shweta Chadha"
+    },
+    "modifiedDate": "2023-04-26T04:10:22.877-06:00",
+    "modifiedBy": {
+        "email": "schadha@copado.com",
+        "name": "Shweta Chadha"
+    },
+    "memberId": 536001605,
+    "status": {
+        "name": "Draft"
+    },
+    "content": "<!DOCTYPE html>\n<html lang=\"en\">\n\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Hello!</title>\n    </head>\n\n    <body>\n        <h1>Hello World!</h1>\n        <p>This is a simple paragraph.</p>\n    </body>\n",
+    "availableViews": [],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}
