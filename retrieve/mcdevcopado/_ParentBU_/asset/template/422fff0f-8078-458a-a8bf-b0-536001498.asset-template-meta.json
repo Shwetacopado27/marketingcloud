@@ -1,0 +1,33 @@
+{
+    "customerKey": "422fff0f-8078-458a-a8bf-b0-536001498",
+    "assetType": {
+        "name": "template",
+        "displayName": "Template"
+    },
+    "fileProperties": {
+        "fileName": "Copado-Demo"
+    },
+    "name": "Copado-Demo",
+    "owner": {
+        "email": "",
+        "name": "Accenture SFMC DevTools Deployment Tool app user"
+    },
+    "createdDate": "2023-04-26T04:23:04.307-06:00",
+    "createdBy": {
+        "email": "",
+        "name": "Accenture SFMC DevTools Deployment Tool app user"
+    },
+    "modifiedDate": "2023-04-26T04:23:04.307-06:00",
+    "modifiedBy": {
+        "email": "",
+        "name": "Accenture SFMC DevTools Deployment Tool app user"
+    },
+    "memberId": 536001498,
+    "status": {
+        "name": "Draft"
+    },
+    "content": "<!DOCTYPE html>\n<html lang=\"en\">\n\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Hello!</title>\n    </head>\n\n    <body>\n        <h1>Hello World!</h1>\n        <p>This is a simple paragraph.</p>\n    </body>\n",
+    "availableViews": [],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

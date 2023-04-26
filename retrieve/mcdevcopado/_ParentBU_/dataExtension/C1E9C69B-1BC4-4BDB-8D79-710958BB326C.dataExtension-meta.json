@@ -32,6 +32,14 @@
             "IsRequired": false,
             "IsPrimaryKey": false,
             "FieldType": "Phone"
+        },
+        {
+            "Name": "Email_Address",
+            "DefaultValue": "",
+            "MaxLength": 254,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "EmailAddress"
         }
     ],
     "r__folder_ContentType": "dataextension",
