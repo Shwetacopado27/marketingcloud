@@ -3,14 +3,14 @@
     "description": "",
     "key": "1c09b317-69a2-8be6-2c2d-242090f2836a",
     "type": "triggered",
-    "status": "AwaitingTrigger",
+    "status": "InactiveTrigger",
     "fileTrigger": {
         "queueFiles": true,
-        "isPublished": true,
+        "isPublished": false,
         "fileNamePatternTypeId": 0,
         "fileNamingPattern": "",
         "folderLocationText": "import\\",
-        "triggerActive": true
+        "triggerActive": false
     },
     "steps": [
         {
