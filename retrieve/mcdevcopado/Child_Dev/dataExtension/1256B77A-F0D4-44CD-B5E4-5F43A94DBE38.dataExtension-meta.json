@@ -12,7 +12,7 @@
         {
             "Name": "Name",
             "DefaultValue": "",
-            "MaxLength": 50,
+            "MaxLength": 60,
             "IsRequired": false,
             "IsPrimaryKey": false,
             "FieldType": "Text"
