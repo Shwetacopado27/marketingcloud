@@ -2,8 +2,14 @@
     "CustomerKey": "1256B77A-F0D4-44CD-B5E4-5F43A94DBE38",
     "Name": "Import_test",
     "Description": "",
-    "IsSendable": false,
+    "IsSendable": true,
     "IsTestable": false,
+    "SendableDataExtensionField": {
+        "Name": "Name"
+    },
+    "SendableSubscriberField": {
+        "Name": "Subscriber Key"
+    },
     "RowBasedRetention": false,
     "ResetRetentionPeriodOnImport": false,
     "DeleteAtEndOfRetentionPeriod": false,
@@ -12,7 +18,7 @@
         {
             "Name": "Name",
             "DefaultValue": "",
-            "MaxLength": 60,
+            "MaxLength": 255,
             "IsRequired": false,
             "IsPrimaryKey": false,
             "FieldType": "Text"
