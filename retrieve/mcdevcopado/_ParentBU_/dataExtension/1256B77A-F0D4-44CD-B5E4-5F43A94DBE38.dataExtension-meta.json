@@ -1,7 +1,7 @@
 {
     "CustomerKey": "1256B77A-F0D4-44CD-B5E4-5F43A94DBE38",
     "Name": "Import_test",
-    "Description": "",
+    "Description": "testing3",
     "IsSendable": true,
     "IsTestable": false,
     "SendableDataExtensionField": {
@@ -34,7 +34,7 @@
         {
             "Name": "Address",
             "DefaultValue": "",
-            "MaxLength": 50,
+            "MaxLength": 60,
             "IsRequired": false,
             "IsPrimaryKey": false,
             "FieldType": "Text"
