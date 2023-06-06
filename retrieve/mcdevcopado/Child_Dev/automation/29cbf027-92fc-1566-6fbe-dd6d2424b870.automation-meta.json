@@ -15,6 +15,7 @@
     "steps": [
         {
             "name": "",
+            "description": "",
             "activities": [
                 {
                     "name": "Import_test1",
