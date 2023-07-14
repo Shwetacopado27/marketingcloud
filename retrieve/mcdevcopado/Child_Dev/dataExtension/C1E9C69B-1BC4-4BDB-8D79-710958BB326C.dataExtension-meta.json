@@ -1,7 +1,7 @@
 {
     "CustomerKey": "C1E9C69B-1BC4-4BDB-8D79-710958BB326C",
     "Name": "Shweta_Demo",
-    "Description": "shweta_demo testing2",
+    "Description": "shweta_demo",
     "IsSendable": false,
     "IsTestable": false,
     "RowBasedRetention": false,
@@ -12,7 +12,7 @@
         {
             "Name": "name",
             "DefaultValue": "",
-            "MaxLength": 50,
+            "MaxLength": 100,
             "IsRequired": false,
             "IsPrimaryKey": false,
             "FieldType": "Text"
