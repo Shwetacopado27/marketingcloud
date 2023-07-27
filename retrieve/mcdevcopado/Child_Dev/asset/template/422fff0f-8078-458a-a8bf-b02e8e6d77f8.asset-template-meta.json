@@ -17,16 +17,16 @@
         "email": "schadha@copado.com",
         "name": "Shweta Chadha"
     },
-    "modifiedDate": "2023-04-26T04:10:22.877-06:00",
+    "modifiedDate": "2023-07-27T04:19:27.67-06:00",
     "modifiedBy": {
-        "email": "schadha@copado.com",
-        "name": "Shweta Chadha"
+        "email": "jlee@copado.com",
+        "name": "Jeremy Lee"
     },
     "memberId": 536001605,
     "status": {
         "name": "Draft"
     },
-    "content": "<!DOCTYPE html>\n<html lang=\"en\">\n\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Hello!</title>\n    </head>\n\n    <body>\n        <h1>Hello World!</h1>\n        <p>This is a simple paragraph.</p>\n    </body>\n",
+    "content": "<!DOCTYPE html>\n<html lang=\"en\">\n\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Hello!</title>\n    </head>\n\n    <body>\n        <h1>Hello World 123!</h1>\n        <p>This is a simple paragraph.</p>\n    </body>\n",
     "availableViews": [],
     "modelVersion": 2,
     "r__folder_Path": "Content Builder"
