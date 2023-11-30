@@ -1,7 +1,7 @@
 {
     "CustomerKey": "C1E9C69B-1BC4-4BDB-8D79-710958BB326C",
-    "Name": "Shweta_Demo",
-    "Description": "shweta_demo5",
+    "Name": "APAC_Shweta_Demo",
+    "Description": "shweta_demo1",
     "IsSendable": false,
     "IsTestable": false,
     "RowBasedRetention": false,
@@ -40,6 +40,14 @@
             "IsRequired": false,
             "IsPrimaryKey": false,
             "FieldType": "EmailAddress"
+        },
+        {
+            "Name": "department",
+            "DefaultValue": "",
+            "MaxLength": 50,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
         }
     ],
     "r__folder_ContentType": "dataextension",
